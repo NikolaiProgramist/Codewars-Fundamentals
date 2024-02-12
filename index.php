@@ -1,5 +1,12 @@
 <?php
 
+// Convert a String to a Number!
+
+//function stringToNumber(string $str): int
+//{
+//    return (int) $str;
+//}
+
 // Multiply
 
 //function multiply(int $a, int $b): int {
