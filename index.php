@@ -1,5 +1,12 @@
 <?php
 
+// Opposite number
+
+//function opposite(int $n): int
+//{
+//    return $n * -1;
+//}
+
 // Convert a String to a Number!
 
 //function stringToNumber(string $str): int
