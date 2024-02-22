@@ -1,5 +1,33 @@
 <?php
 
+// Grasshopper - Grade book
+
+//function getGrade(int $a, int $b, int $c): string {
+//    $result = ($a + $b + $c) / 3;
+//
+//    if (90 <= $result && $result<= 100) {
+//        return 'A';
+//    }
+//
+//    if (80 <= $result && $result<= 90) {
+//        return 'B';
+//    }
+//
+//    if (70 <= $result && $result<= 80) {
+//        return 'C';
+//    }
+//
+//    if (60 <= $result && $result<= 70) {
+//        return 'D';
+//    }
+//
+//    if (0 <= $result && $result<= 60) {
+//        return 'F';
+//    }
+//
+//    return 'null';
+//}
+
 // Opposite number
 
 //function opposite(int $n): int
