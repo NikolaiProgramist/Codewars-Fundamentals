@@ -1,5 +1,18 @@
 <?php
 
+// How good are you really?
+
+//function betterThanAverage(array $classPoints, int $yourPoints): bool {
+//    $sum = array_sum($classPoints) + $yourPoints;
+//    $tmp = $sum / (count($classPoints) + 1);
+//
+//    if ($tmp >= $yourPoints) {
+//        return false;
+//    }
+//
+//    return true;
+//}
+
 // Grasshopper - Grade book
 
 //function getGrade(int $a, int $b, int $c): string {
