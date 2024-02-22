@@ -1,5 +1,19 @@
 <?php
 
+// A Needle in the Haystack
+
+//function findNeedle(array $haystack): string|false {
+//    for ($i = 0; $i <= count($haystack); $i++) {
+//        $str = strpos($haystack[$i], 'needle');
+//
+//        if ($str !== false) {
+//            return "found the needle at position {$i}";
+//        }
+//    }
+//
+//    return false;
+//}
+
 // How good are you really?
 
 //function betterThanAverage(array $classPoints, int $yourPoints): bool {
