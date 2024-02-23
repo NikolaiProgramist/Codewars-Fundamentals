@@ -1,5 +1,12 @@
 <?php
 
+// String repeat
+
+//function repeatStr(int $n, string $str): string
+//{
+//    return str_repeat($str, $n);
+//}
+
 // A Needle in the Haystack
 
 //function findNeedle(array $haystack): string|false {
