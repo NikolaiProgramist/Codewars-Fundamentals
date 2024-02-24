@@ -1,5 +1,12 @@
 <?php
 
+// Keep Hydrated!
+
+//function litres(float $t): int
+//{
+//    return floor($t * 0.5);
+//}
+
 // String repeat
 
 //function repeatStr(int $n, string $str): string
