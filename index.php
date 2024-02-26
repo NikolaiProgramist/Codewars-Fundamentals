@@ -1,5 +1,19 @@
 <?php
 
+// Reverse words
+
+//function reverseWords(string $str): string
+//{
+//    $revStr = '';
+//    $words = explode(' ', $str);
+//
+//    for ($i = 0; $i < count($words); $i++) {
+//        $revStr .= strrev($words[$i]) . ' ';
+//    }
+//
+//    return trim($revStr);
+//}
+
 // Convert a Boolean to a String
 
 //function booleanToString(bool $b): string
