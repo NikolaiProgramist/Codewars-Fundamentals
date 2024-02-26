@@ -1,5 +1,12 @@
 <?php
 
+// Convert a Boolean to a String
+
+//function booleanToString(bool $b): string
+//{
+//    return $b === true ? 'true' : 'false';
+//}
+
 // Keep Hydrated!
 
 //function litres(float $t): int
