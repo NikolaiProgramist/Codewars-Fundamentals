@@ -152,3 +152,5 @@
 //
 //    return $arr[7] . $arr[4] . $arr[11] . $arr[11] . $arr[14] . ' ' . $arr[22] . $arr[14] . $arr[17] . $arr[11] . $arr[3] . '!';
 //}
+
+// Hello SSH!
